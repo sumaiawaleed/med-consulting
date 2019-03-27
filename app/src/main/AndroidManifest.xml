@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
+=======
+        <activity android:name=".Main2Activity"></activity>
+        <activity android:name=".Sumaia" />
+>>>>>>> 8d985f97b729285ae8b5420f7928466475175587
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
