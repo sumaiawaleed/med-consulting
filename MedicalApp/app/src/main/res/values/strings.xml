@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MedicalApp</string>
+    <string name="wait">please wait ..</string>
+    <string name="errorNetwork">No Internet Connection</string>
+    <string name="inputAllData">Please input all Data</string>
+    <string name="internetError">Error Network</string>
+</resources>
